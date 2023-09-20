@@ -1,4 +1,6 @@
 nuevo archivo de texto que estoy probando para un test
 
+ste es nu intento d muchos u stoy probnod y spero u funcion
+
 acutualizando todo desde el inicio del primer commit hasta el final
 estamos actualizando el texto del primero para que nos muestre el ultimo
