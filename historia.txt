@@ -1,6 +1,10 @@
 nuevo archivo de texto que estoy probando para un test
 
+<<<<<<< HEAD
 ste es nu intento d muchos u stoy probnod y spero u funcion
+=======
+este es otro intento xD el 3
+>>>>>>> d176bd417f8ca64e53ee29851c4ed56211a52961
 
 acutualizando todo desde el inicio del primer commit hasta el final
 estamos actualizando el texto del primero para que nos muestre el ultimo
